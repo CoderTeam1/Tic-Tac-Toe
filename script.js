@@ -10,4 +10,18 @@ function draw (id){
 }
 if () {
     
+}else if() {
+
+}else if() {
+         
+}else if(){
+
+}else if(){
+
+}else if(){
+
+}else if(){
+
+}else if(){
+
 }

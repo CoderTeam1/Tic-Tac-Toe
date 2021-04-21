@@ -17,3 +17,7 @@ function cell4() {
 function cell5() {
   document.querySelector("cell5").innerHTML = "X"
 }
+
+function cell2() {
+  document.querySelector("cell2").innerHTML = "X"
+}

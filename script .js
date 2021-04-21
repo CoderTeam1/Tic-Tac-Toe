@@ -22,6 +22,6 @@ function cell6() {
   document.querySelector("cell6").innerHTML = "X"
 }
 
-function cell2() {
+function cell7() {
   document.querySelector("cell2").innerHTML = "X"
 }

@@ -21,3 +21,7 @@ function cell5() {
 function cell6() {
   document.querySelector("cell6").innerHTML = "X"
 }
+
+function cell2() {
+  document.querySelector("cell2").innerHTML = "X"
+}

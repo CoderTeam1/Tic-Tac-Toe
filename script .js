@@ -18,6 +18,6 @@ function cell5() {
   document.querySelector("cell5").innerHTML = "X"
 }
 
-function cell2() {
+function cell6() {
   document.querySelector("cell2").innerHTML = "X"
 }

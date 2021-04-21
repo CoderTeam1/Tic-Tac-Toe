@@ -3,15 +3,15 @@ function cell1() {
 }
 
 function cell2() {
-  document.querySelector("cell2").innerHTML = "X"
+  document.querySelector("cell2").innerHTML = "X";
 }
 
 function cell3() {
-  document.querySelector("cell3").innerHTML = "X"
+  document.querySelector("cell3").innerHTML = "X";
 }
 
 function cell4() {
-  document.querySelector("cell4").innerHTML = "X"
+  document.querySelector("cell4").innerHTML = "X";
 }
 
 function cell5() {

@@ -9,3 +9,7 @@ function cell2() {
 function cell3() {
   document.querySelector("cell3").innerHTML = "X"
 }
+
+function cell2() {
+  document.querySelector("cell2").innerHTML = "X"
+}

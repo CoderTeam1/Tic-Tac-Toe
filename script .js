@@ -23,11 +23,11 @@ function cell6() {
 }
 
 function cell7() {
-  document.querySelector("cell7").innerHTML = "X"
+  document.querySelector("cell7").innerHTML = "X";
 }
 
 function cell8() {
-  document.querySelector("cell8").innerHTML = "X"
+  document.querySelector("cell8").innerHTML = "X";
 }
 
 

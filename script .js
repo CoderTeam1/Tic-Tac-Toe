@@ -14,12 +14,12 @@ function cell4() {
   document.querySelector("cell4").innerHTML = "X"
 }
 
-function cell5() {
+function cell5() {;
   document.querySelector("cell5").innerHTML = "X"
 }
 
 function cell6() {
-  document.querySelector("cell6").innerHTML = "X"
+  document.querySelector("cell6").innerHTML = "X";
 }
 
 function cell7() {

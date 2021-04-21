@@ -1,78 +1,86 @@
 .grid {
-  display: flex;                       /* establish flex container */
-  flex-wrap: wrap;                     /* enable flex items to wrap */
+  display: flex; /* establish flex container */
+  flex-wrap: wrap; /* enable flex items to wrap */
   justify-content: space-around;
-  
 }
 
 .cell1 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
-  background-color: antiquewhite;;
+  background-color: antiquewhite;
 }
 
 .cell2 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
   background-color: antiquewhite;
 }
 
 .cell3 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
   background-color: antiquewhite;
 }
 
 .cell4 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
   background-color: antiquewhite;
 }
 
 .cell5 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
   background-color: antiquewhite;
 }
 
 .cell6 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
   background-color: antiquewhite;
 }
 
 .cell7 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
   background-color: antiquewhite;
 }
 
 .cell8 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
   background-color: antiquewhite;
 }
 
 .cell9 {
-  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  flex: 0 0 32%; /* don't grow, don't shrink, width */
   width: 50px;
   height: 50px;
+  text-align: center;
   margin-bottom: 5px;
   background-color: antiquewhite;
 }

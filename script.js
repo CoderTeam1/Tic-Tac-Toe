@@ -9,15 +9,15 @@ function draw (id){
     player = "x";
   }
 }
-if (document.getElementById().innerHTML == document.getElementById().innerHTML && document.getElementById().innerHTML == document.getElementById().innerHTML) {
+if (document.getElementById("cell1").innerHTML == document.getElementById("cell5").innerHTML && document.getElementById("cell1").innerHTML == document.getElementById("cell9").innerHTML) {
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";
-}else if(document.getElementById().innerHTML == document.getElementById().innerHTML && document.getElementById().innerHTML == document.getElementById().innerHTML) {
+}else if(document.getElementById("cell3").innerHTML == document.getElementById("cell5").innerHTML && document.getElementById("cell3").innerHTML == document.getElementById("cell7").innerHTML) {
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";
-}else if(document.getElementById().innerHTML == document.getElementById().innerHTML && document.getElementById().innerHTML == document.getElementById().innerHTML) {
+}else if(document.getElementById("cell1").innerHTML == document.getElementById("cell4").innerHTML && document.getElementById("cell1").innerHTML == document.getElementById("cell7").innerHTML) {
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";         

@@ -13,3 +13,7 @@ function cell3() {
 function cell4() {
   document.querySelector("cell4").innerHTML = "X"
 }
+
+function cell2() {
+  document.querySelector("cell2").innerHTML = "X"
+}

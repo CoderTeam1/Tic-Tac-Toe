@@ -10,6 +10,6 @@ function cell3() {
   document.querySelector("cell3").innerHTML = "X"
 }
 
-function cell3() {
+function cell4() {
   document.querySelector("cell3").innerHTML = "X"
 }

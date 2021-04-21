@@ -1,16 +1,17 @@
-var cell1 = 
 var player = "x";
+var winner = "";
 function draw (id){
   if (player = "x"){
-    document.getElementById(id).style.backgroundImage = url("https://www.clipartmax.com/png/middle/134-1340885_swarm-bee-x-delete-comments-tic-tac-toe-cross.png")
-    player = "y"
+    document.getElementById(id).innerHTML = "X";
+    player = "O";
   }else {
-    document.getElementById(id).style.backgroundImage = url("https://www.clipartmax.com/png/small/440-4408148_transparent-o-tic-tac-toe-o.png")
-    player = "x"
+    document.getElementById(id).innerHTML = "O";
+    player = "x";
   }
 }
-if () {
-   
+if (document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML) {
+   winner = document.getElementById().innerHTML;
+   document.getElementById().innerHTML = winner.concat(" wins!!!");
 }else if() {
 
 }else if() {

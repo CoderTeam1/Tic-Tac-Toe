@@ -5,7 +5,6 @@
   
 }
 
-}
 .cell1 {
   flex: 0 0 32%;                       /* don't grow, don't shrink, width */
   width: 50px;

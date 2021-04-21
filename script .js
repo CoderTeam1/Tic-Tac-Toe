@@ -7,5 +7,5 @@ function cell2() {
 }
 
 function cell3() {
-  document.querySelector("cell2").innerHTML = "X"
+  document.querySelector("cell3").innerHTML = "X"
 }

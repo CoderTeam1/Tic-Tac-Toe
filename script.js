@@ -12,19 +12,33 @@ function draw (id){
 if (document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML) {
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
-   document.getElementById("#grid").visibility = "hidden"
-}else if() {
-
-}else if() {
-         
-}else if(){
-
-}else if(){
-
-}else if(){
-
-}else if(){
-
-}else if(){
-
+   document.getElementById("#grid").visibility = "hidden";
+}else if(document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML) {
+   winner = document.getElementById().innerHTML;
+   document.getElementById().innerHTML = winner.concat(" wins!!!");
+   document.getElementById("#grid").visibility = "hidden";
+}else if(document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML) {
+   winner = document.getElementById().innerHTML;
+   document.getElementById().innerHTML = winner.concat(" wins!!!");
+   document.getElementById("#grid").visibility = "hidden";         
+}else if(document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML){
+   winner = document.getElementById().innerHTML;
+   document.getElementById().innerHTML = winner.concat(" wins!!!");
+   document.getElementById("#grid").visibility = "hidden";
+}else if(document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML){
+   winner = document.getElementById().innerHTML;
+   document.getElementById().innerHTML = winner.concat(" wins!!!");
+   document.getElementById("#grid").visibility = "hidden";
+}else if(document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML){
+   winner = document.getElementById().innerHTML;
+   document.getElementById().innerHTML = winner.concat(" wins!!!");
+   document.getElementById("#grid").visibility = "hidden";
+}else if(document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML){
+   winner = document.getElementById().innerHTML;
+   document.getElementById().innerHTML = winner.concat(" wins!!!");
+   document.getElementById("#grid").visibility = "hidden";
+}else if(document.getElementById().innerHTML == document.getElementById().innerHTML == document.getElementById().innerHTML){
+   winner = document.getElementById().innerHTML;
+   document.getElementById().innerHTML = winner.concat(" wins!!!");
+   document.getElementById("#grid").visibility = "hidden";
 }

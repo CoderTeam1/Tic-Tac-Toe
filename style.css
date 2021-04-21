@@ -1,4 +1,4 @@
-.grid {
+#grid {
   display: flex;                       /* establish flex container */
   flex-wrap: wrap;                     /* enable flex items to wrap */
   justify-content: space-around;

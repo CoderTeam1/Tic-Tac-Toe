@@ -32,5 +32,5 @@ function cell8() {
 
 
 function cell9() {
-  document.querySelector("cell2").innerHTML = "X"
+  document.querySelector("cell9").innerHTML = "X"
 }

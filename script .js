@@ -19,5 +19,5 @@ function cell5() {
 }
 
 function cell6() {
-  document.querySelector("cell2").innerHTML = "X"
+  document.querySelector("cell6").innerHTML = "X"
 }

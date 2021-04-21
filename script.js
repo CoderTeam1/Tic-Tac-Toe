@@ -1,3 +1,4 @@
+
 var player = "x";
 function draw (id){
   if (player = "x"){

@@ -31,6 +31,6 @@ function cell8() {
 }
 
 
-function cell2() {
+function cell9() {
   document.querySelector("cell2").innerHTML = "X"
 }

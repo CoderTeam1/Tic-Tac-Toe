@@ -1,5 +1,5 @@
 var player = "x";
-var winner = "";
+var winner = null;
 function draw (id){
   if (player = "x"){
     document.getElementById(id).innerHTML = "X";

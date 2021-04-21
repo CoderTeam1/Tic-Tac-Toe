@@ -21,23 +21,23 @@ if (document.getElementById("cell1").innerHTML == document.getElementById("cell5
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";         
-}else if(document.getElementById().innerHTML == document.getElementById().innerHTML && document.getElementById().innerHTML == document.getElementById().innerHTML){
+}else if(document.getElementById("cell3").innerHTML == document.getElementById("cell6").innerHTML && document.getElementById("cell3").innerHTML == document.getElementById("cell9").innerHTML){
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";
-}else if(document.getElementById().innerHTML == document.getElementById().innerHTML && document.getElementById().innerHTML == document.getElementById().innerHTML){
+}else if(document.getElementById("cell2").innerHTML == document.getElementById("cell5").innerHTML && document.getElementById("cell2").innerHTML == document.getElementById("cell8").innerHTML){
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";
-}else if(document.getElementById().innerHTML == document.getElementById().innerHTML && document.getElementById().innerHTML == document.getElementById().innerHTML){
+}else if(document.getElementById("cell1").innerHTML == document.getElementById("cell2").innerHTML && document.getElementById("cell1").innerHTML == document.getElementById("cell3").innerHTML){
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";
-}else if(document.getElementById().innerHTML == document.getElementById().innerHTML && document.getElementById().innerHTML == document.getElementById().innerHTML){
+}else if(document.getElementById("cell4").innerHTML == document.getElementById("cell5").innerHTML && document.getElementById("cell4").innerHTML == document.getElementById("cell6").innerHTML){
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";
-}else if(document.getElementById().innerHTML == document.getElementById().innerHTML && document.getElementById().innerHTML == document.getElementById().innerHTML){
+}else if(document.getElementById("cell7").innerHTML == document.getElementById("cell8").innerHTML && document.getElementById("cell7").innerHTML == document.getElementById("cell9").innerHTML){
    winner = document.getElementById().innerHTML;
    document.getElementById().innerHTML = winner.concat(" wins!!!");
    document.getElementById("#grid").visibility = "hidden";

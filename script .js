@@ -1,35 +1,35 @@
-function 1() {
+function word1() {
   document.getElementById("word1").innerHTML = "X";
 }
 
-function 2() {
+function word2() {
   document.getElementById("word2").innerHTML = "X";
 }
 
-function 3() {
+function word3() {
   document.getElementById("word3").innerHTML = "X";
 }
 
-function 4() {
+function word4() {
   document.getElementById("word4").innerHTML = "X";
 }
 
-function 5() {
+function word5() {
   document.getElementById("word5").innerHTML = "X";
 }
 
-function 6() {
+function word6() {
   document.getElementById("word6").innerHTML = "X";
 }
 
-function 7() {
+function word7() {
   document.getElementById("word7").innerHTML = "X";
 }
 
-function 8() {
+function word8() {
   document.getElementById("word8").innerHTML = "X";
 }
 
-function 9() {
+function word9() {
   document.getElementById("word9").innerHTML = "X";
 }

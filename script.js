@@ -1,6 +1,7 @@
 var player = "X";
 var winner = "";
 function draw (id){
+String(id);
   if (player = "X"){
     document.getElementById(id).innerHTML = "X";
     player = "O";
